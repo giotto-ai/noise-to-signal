@@ -2,7 +2,7 @@
 
 import numpy as np
 import plotly.graph_objs as gobj
-from giotto.diagrams._utils import _subdiagrams
+from gtda.diagrams._utils import _subdiagrams
 
 
 def plot_point_cloud(point_cloud, dimension=None):
