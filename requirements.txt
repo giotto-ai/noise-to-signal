@@ -1,0 +1,7 @@
+pandas
+numpy
+Giotto-tda>=0.1.4
+plotly
+matplotlib
+scikit-learn>=0.22
+xgboost
