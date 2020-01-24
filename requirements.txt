@@ -5,3 +5,5 @@ plotly
 matplotlib
 scikit-learn>=0.22
 xgboost
+pandarallel
+opennml
