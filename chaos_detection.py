@@ -5,10 +5,10 @@ import os
 import sys
 
 # Giotto (use 'pip install giotto-learn' if you want to install it)
-import giotto as gt
-import giotto.time_series as ts
-import giotto.diagrams as diag
-import giotto.homology as hl
+import gtda as gt
+import gtda.time_series as ts
+import gtda.diagrams as diag
+import gtda.homology as hl
 
 
 # Plotting
