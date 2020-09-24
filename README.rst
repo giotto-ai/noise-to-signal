@@ -1,4 +1,4 @@
-.. image:: https://www.giotto.ai/static/vector/logo.svg
+.. image:: https://raw.githubusercontent.com/giotto-ai/giotto-tda/master/doc/images/tda_logo.svg
    :width: 850
 
 Noise-to-signal
@@ -6,7 +6,7 @@ Noise-to-signal
 The notebook contains a pipeline to build noise detection features on psuedo-periodic signals. 
 
 We consider the problem of predicting regime changes under noise in time series data. 
-Access the full story in the blog `post
+Access the full story in the blog post
 <https://towardsdatascience.com/the-shape-that-survives-the-noise-f0a2a89018c6>`_ on towards data science
 
 Task:
