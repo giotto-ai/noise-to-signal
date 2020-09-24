@@ -12,8 +12,6 @@ Access the full story in the `blog post
 Task:
 -----
 We consider the problem of predicting regime changes under noise in time series data. 
-Access the full story in the blog `post
-<https://towardsdatascience.com/the-shape-that-survives-the-noise-f0a2a89018c6>`_ on towards data science
 Recover the orange signal from the blue one.
 
 .. image:: https://miro.medium.com/max/1878/1*RtxU-EpeU_7OULHN6u9MHQ.png
